@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm a passionate developer constantly learning and experimenting with new technologies. Here's a bit about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Coding and Github **
+- 🌱 I’m currently learning **Coding and Github**
 - 📫 How to reach me: **blackopolotong@gmail.com**
 - ⚡ Fun fact: **I can't code**
 
