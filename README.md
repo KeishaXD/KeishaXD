@@ -1,20 +1,27 @@
-<h1 align="center">Hi 👋, I'm Jovallin Keisha Rafael Dewantara</h1>
-<h3 align="center">Someone who has no coding background but wants to play with github s</h3>
+# Hi there, I'm Keisha 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keishaxd&label=Profile%20views&color=0e75b6&style=flat" alt="keishaxd" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/KeishaXD?style=social)
+![GitHub stars](https://img.shields.io/github/stars/KeishaXD?style=social)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keishaxd" alt="keishaxd" /></a> </p>
+Welcome to my GitHub profile! I'm a passionate developer constantly learning and experimenting with new technologies. Here's a bit about me:
 
-- 📫 How to reach me **blackopolotong@gmail.com**
+## 🚀 About Me
+- 🌱 I’m currently learning **Coding and Github **
+- 📫 How to reach me: **blackopolotong@gmail.com**
+- ⚡ Fun fact: **I can't code**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/JovallinKRD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JovallinKRD height="30" width="40" /></a>
-<a href="https://instagram.com/jkrd.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jkrd.ig" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kedua kolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kedua kolo" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats
+![KeishaXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeishaXD&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
+## 🏆 GitHub Trophies
+![KeishaXD's GitHub trophies](https://github-profile-trophy.vercel.app/?username=KeishaXD&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keishaxd&show_icons=true&locale=en" alt="keishaxd" /></p>
+## 🔗 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/jovallin-keisha-rafael-dewantara)
+- [Instagram](https://www.instagram.com/jkrd.ig)
+- [Facebook](https://www.facebook.com/JovallinKRD)
+- [Telegram](t.me/JovallinKRD)
+- [YouTube](https://youtube.com/@keduakolo)
+
+## 📂 Top Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeishaXD&repo=Xdroid-UI-Fixer&theme=radical)](https://github.com/KeishaXD/Xdroid-UI-Fixer)
